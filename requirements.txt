@@ -1,0 +1,4 @@
+boto3==1.18.65
+botocore==1.21.65
+prettytable==2.2.1
+PyPDF2==1.26.0
