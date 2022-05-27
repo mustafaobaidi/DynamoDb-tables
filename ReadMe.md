@@ -1,6 +1,6 @@
 
 DynamoDb:
-The purpose of this project is to design tables so that we can update them by adding more countries to the database, as well as years of data. I designed the tables so that economic and non-economic data are not in the same table. Moreover, I made a python module that helped me accomplish the tasks I needed to do in dynamob db the module is called aws_module and includes the following:
+The purpose of this project is to design tables so that we can update them by adding more countries to the database, as well as years of data. I designed the tables so that economic and non-economic data are not in the same table. Moreover, I made a python module that helped me accomplish the tasks I needed to do in dynamo db the module is called aws_module and includes the following:
 
 aws_module: contains modules to help creating tables, deleteing tables, loading csv file to a table, adding indvidual record, deleteing indvidual record, as well as query and scan tables
 
